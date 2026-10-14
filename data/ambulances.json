@@ -1,0 +1,20 @@
+[
+    {
+        "ambulance_id": "AMB001",
+        "driver_name": "Ravi",
+        "location": "Area A",
+        "available": true
+    },
+    {
+        "ambulance_id": "AMB002",
+        "driver_name": "Kiran",
+        "location": "Area B",
+        "available": true
+    },
+    {
+        "ambulance_id": "AMB003",
+        "driver_name": "Arjun",
+        "location": "Area C",
+        "available": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "patient_id": "P001",
+        "name": "Patient One",
+        "age": 45,
+        "emergency_level": 5,
+        "location": "Area A"
+    },
+    {
+        "patient_id": "P002",
+        "name": "Patient Two",
+        "age": 32,
+        "emergency_level": 3,
+        "location": "Area B"
+    },
+    {
+        "patient_id": "P003",
+        "name": "Patient Three",
+        "age": 67,
+        "emergency_level": 4,
+        "location": "Area C"
+    }
+]

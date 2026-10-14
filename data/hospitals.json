@@ -1,0 +1,23 @@
+[
+    {
+        "hospital_id": "H001",
+        "name": "City General Hospital",
+        "location": "Hospital A",
+        "available_beds": 20,
+        "emergency_capacity": 10
+    },
+    {
+        "hospital_id": "H002",
+        "name": "Apollo Emergency Center",
+        "location": "Hospital B",
+        "available_beds": 15,
+        "emergency_capacity": 8
+    },
+    {
+        "hospital_id": "H003",
+        "name": "Care Emergency Hospital",
+        "location": "Hospital C",
+        "available_beds": 10,
+        "emergency_capacity": 5
+    }
+]
